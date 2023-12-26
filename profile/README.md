@@ -1,6 +1,6 @@
 ## SimpliAssist
 
-AL led solution for 100% (Level 5) automation of in-bound call centre operations with no agent intervention while seamlessly integrating with the existing incumbent tech stacks of cloud contact centre and CRM.
+AI led solution for 100% (Level 5) automation of in-bound call centre operations with no agent intervention while seamlessly integrating with the existing incumbent tech stacks of cloud contact centre and CRM.
 <br><br>
 `Stay tuned.. We are building something big..`
 <br><br>
