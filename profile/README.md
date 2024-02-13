@@ -4,7 +4,6 @@ AI led solution for 100% (Level 5) automation of in-bound call centre operations
 <br><br>
 `Stay tuned.. We are building something big..`
 <br><br>
-<img width="1269" alt="image" src="https://github.com/simpli-AI/.github/assets/1707796/5634ac36-30ea-452f-aa6e-22d2484ac9c4">
 
 <!--
 
